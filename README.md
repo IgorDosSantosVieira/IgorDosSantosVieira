@@ -7,7 +7,7 @@
 </br>
 
  <h1>Quem é Igor?</h2>
- <p>Igor Dos Santos Vieira, é um cara de 16 anos, nasceu na cidade de Itabuna-BA onde ele se encontra até os dias atuais, é apaixonado por tecnologia desde pequeno e ama computaddores. Mas foi agora aos 16 anos que ele se apaixonou pela arte da programação, ainda está aprendendo, porém, está indo bem. Além da programação sabe fazer algumas artes no PowerPoint, gosta de estudar e praticar esportes, como por exemplo o futebol. Igor aprende as coisas com facilidade, quando ele foca em algo pra estudar, é certo que ele vai conseguir entender aquele conteúdo. Igor pretende aprender mais ainda a programar, quer continuar estudando tudo que seja relacionado a tecnologia.</p>
+ <p>Igor Dos Santos Vieira, é um cara de 18 anos, nasceu na cidade de Itabuna-BA onde ele se encontra até os dias atuais, é apaixonado por tecnologia desde pequeno e ama computaddores. Mas foi agora aos 16 anos que ele se apaixonou pela arte da programação, ainda está aprendendo, porém, está indo bem. Além da programação sabe fazer algumas artes no PowerPoint, gosta de estudar e praticar esportes, como por exemplo o futebol. Igor aprende as coisas com facilidade, quando ele foca em algo pra estudar, é certo que ele vai conseguir entender aquele conteúdo. Igor pretende aprender mais ainda a programar, quer continuar estudando tudo que seja relacionado a tecnologia.</p>
  
  ## Aprendendo
 
